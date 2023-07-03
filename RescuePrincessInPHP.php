@@ -38,7 +38,7 @@ class BlackKnight
     {
         if (!$this->castle->isPrincessRescued()) {
             $this->castle->rescuePrincess();
-            echo "Yes, I did it in PHP mates! I'm number 5! Who do you think I am?";
+            echo "Yes, I did it in PHP mates! I'm number thats number 5! Who do you think I am?";
         } else {
             echo "The princess has already been rescued!";
         }
@@ -53,6 +53,5 @@ $knight = new BlackKnight($castle);
 
 // Attempt to rescue the princess
 $knight->rescuePrincess();
-
 ?>
 
