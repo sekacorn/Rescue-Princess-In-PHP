@@ -1,0 +1,23 @@
+{
+    "name": "rescue-princess/php-edition",
+    "description": "The most over-engineered princess rescue mission ever written in PHP",
+    "type": "project",
+    "authors": [
+        {
+            "name": "PHP Hero",
+            "email": "hero@php.net"
+        }
+    ],
+    "require": {
+        "php": ">=7.4"
+    },
+    "autoload": {
+        "psr-4": {
+            "RescuePrincess\\": "src/"
+        }
+    },
+    "scripts": {
+        "start": "php game.php",
+        "build": "composer dump-autoload -o"
+    }
+}
