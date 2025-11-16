@@ -1,6 +1,6 @@
 # Rescue the Princess in PHP (Enterprise Edition™)
 
-> Proving that PHP can rescue princesses too! Suck it, other programming languages!
+> Proving that PHP can rescue princesses too! Suck it, other programming languages! It can be done mate and after 10000 tear drops that meme is  buried and dead. May Lovelace rest it's souls
 
 ## About
 
@@ -97,11 +97,11 @@ php game.php
 
 ### Items
 
-- 🧪 **Stack Overflow Potion** - Restores 50 HP
-- 📚 **PHP Manual (Printed)** - Deals 30 damage (it's that heavy!)
-- 📦 **Composer Install Scroll** - Fully restores HP
+- **Stack Overflow Potion** - Restores 50 HP
+- **PHP Manual (Printed)** - Deals 30 damage (it's that heavy!)
+- **Composer Install Scroll** - Fully restores HP
 
-## 🏗️ Architecture
+## Architecture
 
 ```
 src/
@@ -142,7 +142,7 @@ src/
     └── Observable.php             # Observer pattern
 ```
 
-## 🎨 Design Patterns Used
+## Design Patterns Used
 
 1. **Factory Pattern** - `EnemyFactory` for creating enemies
 2. **Strategy Pattern** - Different attack strategies (Normal, Deprecation Warning)
@@ -151,7 +151,7 @@ src/
 5. **Template Method** - `AbstractCombatant` for common combat behavior
 6. **Dependency Injection** - Constructor injection throughout
 
-## 🤓 Technical Highlights
+## Technical Highlights
 
 - **PSR-4 Autoloading** for modern PHP standards
 - **Type Declarations** for better code quality
@@ -161,7 +161,7 @@ src/
 - **OOP Best Practices** (encapsulation, abstraction, polymorphism)
 - **SOLID Principles** (yes, for a joke game!)
 
-## 🎭 The Joke
+## The Joke
 
 This project is a response to the programming meme "Rescue the Princess in Different Languages" where PHP is portrayed as "impossible" or overly complicated. Well, we took that challenge and made it even MORE complicated... but in the best way possible!
 
@@ -171,14 +171,14 @@ We've proven that not only can PHP rescue the princess, but it can do so with:
 - Clean, maintainable code
 - A sense of humor about itself
 
-## 📝 Credits
+## Credits
 
 Created as a humorous response to the notion that PHP can't rescue princesses.
 
 **Original Meme Challenge**: "Rescue the Princess in PHP = Impossible"
 **Our Response**: "Hold my beer... and my Composer dependencies"
 
-## 🤝 Contributing
+## Contributing
 
 This is a joke project, but if you want to add more:
 - PHP-themed enemies (maybe a "Composer Hell" boss?)
@@ -188,18 +188,18 @@ This is a joke project, but if you want to add more:
 
 Feel free to fork and make it even more ridiculous!
 
-## 📜 License
+## License
 
 This is free and unencumbered software released into the public domain. Use it, laugh at it, learn from it, or rescue princesses with it!
 
-## 🎉 Final Words
+## Final Words
 
 Yes, PHP CAN rescue princesses!
 Yes, it can do it with proper architecture!
 Yes, we went way overboard!
 No, we don't regret it!
 
-Now go forth and rescue that princess! 👸⚔️🐉
+Now go forth and rescue that princess!
 
 ---
 
